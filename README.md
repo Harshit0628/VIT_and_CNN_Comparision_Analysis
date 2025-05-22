@@ -44,7 +44,7 @@ Both models are pretrained on ImageNet and fine-tuned for binary classification 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/cnn-vs-vit-comparison.git
+   git clone https://github.com/Harshit0628/VIT_and_CNN_Comparision_Analysis.git
    cd cnn-vs-vit-comparison
    ```
 
@@ -242,10 +242,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **Author**: Indigibilli Harshit
+- **Email**: harshitindigibilli@gmail.com
+- **GitHub**: [Harshit0628](https://github.com/Harshit0628)
+- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/indigibilli-harshit-394366251)
 
 ## 🎯 Future Work
 
