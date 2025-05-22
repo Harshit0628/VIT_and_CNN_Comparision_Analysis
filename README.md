@@ -31,30 +31,6 @@ Both models are pretrained on ImageNet and fine-tuned for binary classification 
 - **Rich Visualizations**: Training curves, confusion matrices, ROC curves, and feature space visualization
 - **Model Comparison**: Side-by-side performance analysis with detailed metrics
 
-## 📁 Project Structure
-
-```
-├── README.md
-├── requirements.txt
-├── main.py
-├── models/
-│   ├── resnet_model.py
-│   └── vit_model.py
-├── utils/
-│   ├── data_loader.py
-│   ├── training.py
-│   ├── evaluation.py
-│   └── visualization.py
-├── data/
-│   └── human-and-non-human/
-│       ├── training_set/
-│       └── test_set/
-└── results/
-    ├── model_comparison.csv
-    ├── resnet50_model_*.pth
-    └── vit_model_*.pth
-```
-
 ## 🛠️ Installation
 
 ### Prerequisites
