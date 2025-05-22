@@ -245,7 +245,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Author**: Indigibilli Harshit
 - **Email**: harshitindigibilli@gmail.com
 - **GitHub**: [Harshit0628](https://github.com/Harshit0628)
-- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/indigibilli-harshit-394366251)
+- **LinkedIn**: [Indigibilli Harshit](www.linkedin.com/in/indigibilli-harshit-394366251)
 
 ## 🎯 Future Work
 
